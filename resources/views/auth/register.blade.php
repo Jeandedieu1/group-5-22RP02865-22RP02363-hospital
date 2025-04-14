@@ -15,7 +15,6 @@
             <div class="card shadow rounded-3">
                 <div class="card-body p-4">
                     <h3 class="text-center mb-4">Create an Account</h3>
-
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
 
