@@ -10,7 +10,6 @@
             background-color: #f5f6fa;
             padding: 20px;
         }
-
         h1 {
             text-align: center;
             color: #2f3640;
